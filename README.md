@@ -6,7 +6,7 @@ To run this code on MacOS:
 1. Install [homebrew](https://brew.sh/) if not already installed
 1. Run the following command to install the required libraries:
 ```
-brew install git phython python-tk@3.11 pillow
+brew install git python@3.11 python-tk@3.11 pillow
 ```
 4. Run the following command to download the source code:
 ```
